@@ -2,7 +2,7 @@
 
 Web Server
 
-* app basica deployado en heroku
+* app básica deployado en heroku
 
 * uso de handlebars
 
