@@ -6,4 +6,4 @@ Web Server
 
 * uso de handlebars
 
-https://node-luckybjj.herokuapp.com/
+https://node-webserver-app-lucky.herokuapp.com/
